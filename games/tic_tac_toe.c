@@ -49,7 +49,7 @@ int main()
         printf("***************************************\n");
         printf("*************TIC TAC TOE***************\n");
         printf("***************************************\n");
-        printf("***********1. YOU vs COMPUTER ***********\n");
+        printf("***********1. YOU vs COMPUTER *********\n");
         printf("***********2. YOU vs PLAYER ***********\n");
         printf("***********3.EXIT *********************\n");
         printf("Enter your choice : ");
